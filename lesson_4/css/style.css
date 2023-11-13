@@ -1,0 +1,39 @@
+@import url("reset.css");
+
+
+
+.header__title {
+    color: #54b307;
+}
+
+.header__list {
+    color: rgb(97, 12, 29);
+}
+
+.main__title {
+    color: rgb(217, 255, 0);
+}
+
+.main__subtitle {
+    color: #82e4e7;
+}
+
+span {
+    color: rgb(16, 136, 70);
+}
+
+.main__content-title {
+    color: #e28111;
+}
+
+.main__content-text {
+    color: #264b08;
+}
+
+.footer__link {
+    color: #d456d436;
+}
+
+.link__item {
+    color: rgb(16, 24, 136);
+}
