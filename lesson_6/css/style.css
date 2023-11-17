@@ -1,0 +1,219 @@
+@import url("fonts.css");
+
+
+@import url("reset.css");
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.navigation {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.navigation a {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: #333;
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.consulting {
+    width: 690px;
+    margin: 0 auto 100px;
+}
+
+.why-us img {
+    margin-bottom: 37px;
+    max-width: 100%;
+}
+
+.why-us p {
+    font-size: 18px;
+    line-height: 1.44;
+    color: #7D7D7D;
+    margin-bottom: 45px;
+}
+
+.consulting h1,
+.consulting h2,
+.consulting h3,
+.benefits-content h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.consulting h1,
+.consulting h2 {
+    color: #37393F;
+}
+
+.consulting h1 {
+    font-size: 30px;
+    line-height: 1.27;
+    text-transform: capitalize;
+    margin-bottom: 17px;
+}
+
+.consulting h2 {
+    font-size: 25px;
+    line-height: 1.28;
+    margin-bottom: 20px;
+}
+
+.why-us h3,
+.benefits-content h3 {
+    font-size: 20px;
+    line-height: 1.25;
+}
+
+.why-us h3 {
+    color: #6B77E5;
+    margin-bottom: 12px;
+}
+
+.benefits {
+    font-size: 0;
+}
+
+.benefits-img,
+.benefits-content {
+    display: inline-block;
+    max-width: 330px;
+    vertical-align: top;
+}
+
+.benefits-img {
+    margin-right: 30px;
+}
+
+.benefits-content h3 {
+    color: #40DDB6;
+    margin-bottom: 25px;
+}
+
+.benefits-content li {
+    font-size: 18px;
+    color: #7D7D7D;
+    margin-bottom: 35px;
+}
+
+.jewellery-background {
+    background-color: #FFF9F4;
+}
+
+.jewellery {
+    max-width: 1170px;
+    margin: 0 auto 100px;
+    padding: 165px 0 150px;
+    font-size: 0;
+}
+
+.jewellery-content,
+.jewellery-img {
+    display: inline-block;
+    max-width: 585px;
+    vertical-align: top;
+}
+
+.jewellery-content {
+    padding: 20px 30px 20px 0;
+}
+
+.jewellery-content span {
+    display: inline-block;
+    font-size: 28px;
+    color: #D06B00;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.jewellery-content h1 {
+    font-family: "DM Serif Text", serif;
+    font-size: 59px;
+    line-height: 1.45;
+    color: #0E333D;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+}
+
+.jewellery-content p {
+    font-size: 20px;
+    color: #474747;
+    line-height: 1.8;
+}
+
+.jewellery-img img {
+    margin-right: 18px;
+}
+
+.practice {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.practice span {
+    font-size: 20px;
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.part-1,
+.part-2,
+.part-3,
+.part-4,
+.part-5,
+.part-6,
+.part-7 {
+    max-width: 300px;
+    height: 100px;
+}
+
+.part-1 {
+    margin-bottom: 70px;
+    background-color: #3d0e16;
+    color: #fffffffb;
+}
+
+.part-2 {
+    margin-top: 30px;
+    background-color: #d00011;
+}
+
+.part-3 {
+    background-color: #87dd40;
+}
+
+.part-4 {
+    margin-top: -50px;
+    background-color: #d76be5;
+}
+
+.part-5 {
+    background-color: rgb(231, 21, 21);
+    padding-left: 20px;
+}
+
+.part-6 {
+    background-color: #2ae6ff;
+    box-sizing: content-box;
+    padding-left: 30px;
+}
+
+.part-7 {
+    background-color: #fbff2a;
+    color: #fff;
+    overflow: scroll;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+}
+
+footer p {
+    font-size: 18px;
+}
