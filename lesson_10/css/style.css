@@ -1,0 +1,88 @@
+@import url("reset.css");
+
+@import url("fonts.css");
+
+
+
+
+body {
+    background-color: #0cafe6;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+header {
+    max-width: 1100px;
+    margin: 0 auto 50px;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+
+main {
+    max-width: 1200px;
+    margin: 0 auto 50px;
+    padding: 0 25px;
+}
+
+main h2 {
+    font-size: 30px;
+}
+
+main h2:not(:last-child) {
+    margin-bottom: 25px;
+}
+
+main div:not(:last-child) {
+    margin-bottom: 40px;
+}
+
+main img {
+    max-width: 100%;
+}
+
+.icons img,
+.logos img {
+    vertical-align: bottom;
+}
+
+.icons>*:not(:last-child) {
+    margin-right: 10px;
+}
+
+.logos {
+    background-color: #F5F5F5;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.logos h2 {
+    color: #37393F;
+}
+
+.logos>*:not(:last-child) {
+    margin-right: 20px;
+}
+
+.content img {
+    border-radius: 20px;
+}
+
+.content>*:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: aquamarine;
+}
